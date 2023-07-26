@@ -1,2 +1,2 @@
-# Sales-Analysis-Dashboard
-Sales Analysis Dashboard in Tableau
+# Tableau Dashboards
+A collection of different dashboards in Tableau
